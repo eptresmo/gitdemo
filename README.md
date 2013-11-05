@@ -1,4 +1,4 @@
 gitdemo
 =======
 
-Just a demo repistory
+Just a demo repository for testing.
